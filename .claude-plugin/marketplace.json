@@ -1,0 +1,16 @@
+{
+  "name": "plugins-sample",
+  "owner": {
+    "name": "narunblog"
+  },
+  "metadata": {
+    "description": "Plugin marketplace for skill creator"
+  },
+  "plugins": [
+    {
+      "name": "skill-creator",
+      "source": "./plugins/skill-creator",
+      "description": "Skill Creator plugin"
+    }
+  ]
+}
